@@ -48,6 +48,10 @@ A Python-based web crawler that visits all accessible pages within a given domai
    - (Optional) Adjust the **Max pages to crawl**.
    - (Optional) Enter a **Default Region Code** (like `US`, `GB`, `IN`) to help the extractor parse local numbers that lack a country code.
    - Click **Start Extraction**.
+  
+<img width="1713" height="816" alt="image" src="https://github.com/user-attachments/assets/27ac79c0-661f-4add-a034-83c217793f35" />
+<img width="1613" height="737" alt="image" src="https://github.com/user-attachments/assets/5c19acc8-d5e6-40ff-813f-9403ea4f007e" />
+
 
 ## How it Works
 1. **`crawler.py`**: Initializes a `requests.Session` and manages a queue of URLs. It fetches a page, yields the parsed `BeautifulSoup` object, finds new links, and ensures they belong to the same domain.
