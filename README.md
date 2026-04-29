@@ -50,7 +50,8 @@ A Python-based web crawler that visits all accessible pages within a given domai
    - Click **Start Extraction**.
   
 <img width="1713" height="816" alt="image" src="https://github.com/user-attachments/assets/27ac79c0-661f-4add-a034-83c217793f35" />
-<img width="1613" height="737" alt="image" src="https://github.com/user-attachments/assets/5c19acc8-d5e6-40ff-813f-9403ea4f007e" />
+<img width="1492" height="580" alt="image" src="https://github.com/user-attachments/assets/92a0b347-417a-493a-ab9d-91165a29545d" />
+
 
 
 ## How it Works
